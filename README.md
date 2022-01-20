@@ -1,10 +1,11 @@
-Simple Python/Fast API example
-------------------------------
+# Simple Python/Fast API example
+
 Methods:
 
-GET:
+## GET:
 
-/py_benchmark/{num_samples}/{num_repeats}
-* based in https://github.com/alexdedyura/cpu-benchmark
-Runs a benchmark based in calculate pi number
+**/py_benchmark/{num_samples}/{num_repeats}**
+
+
+Runs a benchmark based in calculate pi number (*based in https://github.com/alexdedyura/cpu-benchmark*)
 
